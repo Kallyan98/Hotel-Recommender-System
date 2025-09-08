@@ -1,0 +1,15 @@
+# Core
+streamlit
+nltk
+requests
+
+# Machine Learning + NLP
+torch
+transformers
+accelerate
+bitsandbytes
+
+# Optional helpers
+scikit-learn
+pandas
+numpy
