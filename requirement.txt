@@ -13,3 +13,5 @@ bitsandbytes
 scikit-learn
 pandas
 numpy
+
+#llm
